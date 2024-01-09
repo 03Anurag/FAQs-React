@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FAQs-React/static/css/main.04485f5a.css",
+    "main.js": "/FAQs-React/static/js/main.3bb52efc.js",
+    "index.html": "/FAQs-React/index.html",
+    "main.04485f5a.css.map": "/FAQs-React/static/css/main.04485f5a.css.map",
+    "main.3bb52efc.js.map": "/FAQs-React/static/js/main.3bb52efc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04485f5a.css",
+    "static/js/main.3bb52efc.js"
+  ]
+}
